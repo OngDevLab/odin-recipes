@@ -1,0 +1,37 @@
+.heading,
+.recipe-link,
+.recipe-block{
+    text-align: center;
+}
+
+.recipe-link,
+.round-corners{
+    border-radius: 15px;
+}
+
+.heading {
+    margin:10px;
+
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: bisque;
+    color: black;
+    padding: 10px;
+}
+
+.background {
+    padding: 0px 5px;
+    background-color: black;
+}
+
+.recipe-link{
+    padding:20px;
+    display:inline-block;
+    margin:20px;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+.food-image{
+    display:block;
+}
+
